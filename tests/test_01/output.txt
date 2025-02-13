@@ -1,0 +1,24 @@
+
+=== Number Classifier Menu ===
+1. Classify a number as positive, negative, or zero
+2. Print a multiplication table for a given number
+3. Exit
+Enter your choice (1-3): Enter a number to classify: The number 5 is positive.
+It is an odd number.
+Do you want to return to the menu? (Y/N): 
+=== Number Classifier Menu ===
+1. Classify a number as positive, negative, or zero
+2. Print a multiplication table for a given number
+3. Exit
+Enter your choice (1-3): Enter a number to display its multiplication table: Multiplication Table for 5:
+5 x 1 = 5
+5 x 2 = 10
+5 x 3 = 15
+5 x 4 = 20
+5 x 5 = 25
+5 x 6 = 30
+5 x 7 = 35
+5 x 8 = 40
+5 x 9 = 45
+5 x 10 = 50
+Do you want to return to the menu? (Y/N): 

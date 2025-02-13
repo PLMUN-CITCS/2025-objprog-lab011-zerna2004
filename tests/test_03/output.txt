@@ -1,0 +1,7 @@
+
+=== Number Classifier Menu ===
+1. Classify a number as positive, negative, or zero
+2. Print a multiplication table for a given number
+3. Exit
+Enter your choice (1-3): Exiting the program. Goodbye!
+Do you want to return to the menu? (Y/N):

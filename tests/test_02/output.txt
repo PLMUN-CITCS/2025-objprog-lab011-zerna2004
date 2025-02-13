@@ -1,0 +1,8 @@
+
+=== Number Classifier Menu ===
+1. Classify a number as positive, negative, or zero
+2. Print a multiplication table for a given number
+3. Exit
+Enter your choice (1-3): Enter a number to classify: The number 5 is positive.
+It is an odd number.
+Do you want to return to the menu? (Y/N): 
